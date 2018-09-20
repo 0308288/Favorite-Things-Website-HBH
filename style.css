@@ -3,6 +3,17 @@ h1 {
 	color: blue;
 	text-align: center;
 	font-weight: bold;
-	font-family: Georgia;
+	font-family: Helvetica;
+}
+h2 {
+	color: red;
+	text-align: left;
+	font-weight: bold;
+	font-family: Helvetica;
+}
+.img {
+	height: 200px;
+	width: 200px;
+	text-align: center;
 }
 
