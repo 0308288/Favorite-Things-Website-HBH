@@ -7,20 +7,20 @@ h1 {
 }
 h2 {
 	color: red;
-	text-align: left;
 	font-weight: bold;
 	font-family: Helvetica;
-	margin-left: 315px;
+	margin-left: 240px;
 }
 img {
-	height: 700px;
-	width: 700px;
 	margin: 50px;
 }
-video {
+iframe {
 	margin: 50px;
 }
-
+body {
+	background-image: url(https://i.pinimg.com/originals/68/be/6b/68be6bbd8ffec48ae39166ba21ed296d.jpg);
+	background-size: 1400px;
+}
 
 
 
